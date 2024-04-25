@@ -6,7 +6,6 @@ UI/UX Designer
 
 * 🌍  I'm based in Semarang, Jawa Tengah, Indonesia
 * ✉️  You can contact me at [mesatriagra@gmail.com](mailto:mesatriagra@gmail.com)
-* 🧠  I'm learning Front-End
 
 ### Skills
 
